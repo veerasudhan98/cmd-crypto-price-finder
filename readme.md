@@ -96,10 +96,10 @@ tUTKUSD,
 
 ## Functionality
 
-1. Used process.argv to process user data\
-2. Fetching and storing data into file (crypto.json)\
-3. Updating price of a crypto in a new search\
-4. Used chalk for user experience\
+1. Used process.argv to process user data
+2. Fetching and storing data into file (crypto.json)
+3. Updating price of a crypto in a new search
+4. Used chalk for user experience
 
 ## Available Scripts
 
